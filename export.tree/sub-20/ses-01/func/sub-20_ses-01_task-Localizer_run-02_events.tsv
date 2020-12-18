@@ -1,0 +1,17 @@
+onset	duration	trial_type
+16	16	Hand
+32	16	Scrambled
+48	16	Face
+64	16	Body
+96	16	Scrambled
+112	16	Hand
+128	16	Body
+144	16	Face
+176	16	Body
+192	16	Face
+208	16	Hand
+224	16	Scrambled
+256	16	Face
+272	16	Body
+288	16	Scrambled
+304	16	Hand
